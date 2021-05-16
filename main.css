@@ -1,3 +1,13 @@
 .wrapper{
     background-color: #F9D372;
 }
+
+h1{
+    text-align: center;
+}
+#opening{
+    font-style: italic;
+    background: lightblue;
+    color: navy;
+    width: 50%;
+}
